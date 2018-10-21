@@ -2,3 +2,5 @@
 new stuff. really.
 my last add
 NOT MERGED?
+!!!!
+and another line that should be in conflict with the local file.
